@@ -1,5 +1,4 @@
 # Olá, me chamo Mycaelly Sampaio, sou estudante de ADS e aqui compartilho alguns projetos de tecnologia!
-
 ---
 ### 💻 Tecnologias que eu uso no meu dia a dia
 <p align="">
